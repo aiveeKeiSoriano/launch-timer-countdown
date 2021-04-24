@@ -81,6 +81,7 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 1.5em;
+    justify-content: center;
 }
 
 .social {
@@ -106,7 +107,8 @@ body {
 hr {
     border: none;
     height: 0.5px;
-    background-color: hsl(237, 18%, 59%);
+    background-color: hsl(240, 25%, 92%);
     position: absolute;
     width: 100%;
+    top: 50%;
 }
